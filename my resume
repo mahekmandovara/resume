@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+</head>
+<body bgcolor="SKYBLUE">
+
+<H1 align="center"> <I><U>MY RESUME</U></I></H1><hr>
+<h2>NAME     :MANDOVARA MAHEK MANOJKUMAR </h2>
+<h2>EMAIL ID : mmandovara252@gmail.com</h2>
+<h2>ADDRESS  : 13,VARDHAMAN SOC.,SARODA ROAD,KALIKUND,DHOLKA-GUJARAT</h2>
+<h2>DEGREE   : BCA</h2>
+<hr>
+<h1 style="color:rgb(11, 10, 10)"><center>EDUCATIONS DETAILS</center></h1><hr>
+<table border="1px" width"2px" height"5px">
+<tr>
+<th>NO</th>
+<th>STD</th>
+<th>SEAT NO</th>
+<th>PASSING YEAR</th>
+<th>PERCENTAGES</th>
+<th>BOARD</th>
+</tr>
+<tr>
+<td>1</td>
+<td>10</th>
+<td></td>
+<td></td>
+<td></td>
+<td>gujarat</td>
+</tr>
+<tr>
+<td>2</td>
+<td>12</th>
+<td></td>
+<td></td>
+<td></td>
+<td>gujarat</td>
+</tr>
+</table>
+<hr>
+<h1 style="color:rgb(4, 3, 3)"><center>PERSONAL DETAILS</center></h1><hr>
+<h2>NAME:MANDOVARA MAHEK MANOJKUMAR </h2>
+<h2>EMAIL ID: mmandovara252@gmail.com</h2>
+<h2>DATE OF BIRTH: 25.02.2005 </h2>
+<h2>MOBILE NO:  7226845901</h2>
+<h2>DEGREE: BCA(bachelor of computer application)</h2>
+<h2>ADDRESS:13,VARDHAMAN SOC.,SARODA ROAD,KALIKUND,DHOLKA-GUJARAT </h2>
+<h2>VILLAGE:DHOLKA </h2>
+<h2>DISTRICT:</h2>
+<h2>HOBBY:</h2>
+</body>
+</html>
